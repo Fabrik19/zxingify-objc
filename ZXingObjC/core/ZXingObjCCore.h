@@ -19,7 +19,6 @@
 #define _ZXINGOBJC_CORE_
 
 // Client
-#import "ZXCaptureDelegate.h"
 #import "ZXCGImageLuminanceSource.h"
 #import "ZXImage.h"
 

@@ -57,7 +57,6 @@
 		0210FB8218E0A5FE00B1F4CE /* ZXWifiParsedResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D42166A9A0800E13304 /* ZXWifiParsedResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0210FB8318E0A5FE00B1F4CE /* ZXWifiResultParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D44166A9A0800E13304 /* ZXWifiResultParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0210FB8418E0A5FE00B1F4CE /* ZXCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D46166A9A0800E13304 /* ZXCapture.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0210FB8518E0A5FE00B1F4CE /* ZXCaptureDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D48166A9A0800E13304 /* ZXCaptureDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0210FB8618E0A5FE00B1F4CE /* ZXCGImageLuminanceSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4B166A9A0800E13304 /* ZXCGImageLuminanceSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0210FB8718E0A5FE00B1F4CE /* ZXImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4D166A9A0800E13304 /* ZXImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0210FB8818E0A62200B1F4CE /* ZXMathUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403DA1166A9C0E00E13304 /* ZXMathUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1097,7 +1096,6 @@
 		25404550166ABAF000E13304 /* ZXWifiParsedResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D42166A9A0800E13304 /* ZXWifiParsedResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25404551166ABAF000E13304 /* ZXWifiResultParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D44166A9A0800E13304 /* ZXWifiResultParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25404552166ABAF000E13304 /* ZXCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D46166A9A0800E13304 /* ZXCapture.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		25404553166ABAF000E13304 /* ZXCaptureDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D48166A9A0800E13304 /* ZXCaptureDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25404555166ABAF000E13304 /* ZXCGImageLuminanceSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4B166A9A0800E13304 /* ZXCGImageLuminanceSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25404556166ABAF000E13304 /* ZXImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4D166A9A0800E13304 /* ZXImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25404558166ABAF000E13304 /* ZXMathUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403DA1166A9C0E00E13304 /* ZXMathUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1437,7 +1435,6 @@
 		255E484918143A8800A03A28 /* ZXWifiParsedResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D42166A9A0800E13304 /* ZXWifiParsedResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		255E484A18143A8800A03A28 /* ZXWifiResultParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D44166A9A0800E13304 /* ZXWifiResultParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		255E484B18143A8800A03A28 /* ZXCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D46166A9A0800E13304 /* ZXCapture.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		255E484C18143A8800A03A28 /* ZXCaptureDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D48166A9A0800E13304 /* ZXCaptureDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		255E484E18143A8800A03A28 /* ZXCGImageLuminanceSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4B166A9A0800E13304 /* ZXCGImageLuminanceSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		255E484F18143A8800A03A28 /* ZXImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4D166A9A0800E13304 /* ZXImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		255E485118143A8800A03A28 /* ZXMathUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403DA1166A9C0E00E13304 /* ZXMathUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1992,7 +1989,6 @@
 		DB7259501A52448A00EFF81B /* ZXWifiParsedResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D42166A9A0800E13304 /* ZXWifiParsedResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB7259511A52448D00EFF81B /* ZXWifiResultParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D44166A9A0800E13304 /* ZXWifiResultParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB7259521A52449100EFF81B /* ZXCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D46166A9A0800E13304 /* ZXCapture.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB7259531A52449600EFF81B /* ZXCaptureDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D48166A9A0800E13304 /* ZXCaptureDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB7259541A52449A00EFF81B /* ZXCGImageLuminanceSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4B166A9A0800E13304 /* ZXCGImageLuminanceSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB7259551A5244A000EFF81B /* ZXImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403D4D166A9A0800E13304 /* ZXImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB7259561A5244A900EFF81B /* ZXMathUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 25403DA1166A9C0E00E13304 /* ZXMathUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -2415,7 +2411,6 @@
 		25403D45166A9A0800E13304 /* ZXWifiResultParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXWifiResultParser.m; sourceTree = "<group>"; };
 		25403D46166A9A0800E13304 /* ZXCapture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXCapture.h; sourceTree = "<group>"; };
 		25403D47166A9A0800E13304 /* ZXCapture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXCapture.m; sourceTree = "<group>"; };
-		25403D48166A9A0800E13304 /* ZXCaptureDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXCaptureDelegate.h; sourceTree = "<group>"; };
 		25403D4B166A9A0800E13304 /* ZXCGImageLuminanceSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXCGImageLuminanceSource.h; sourceTree = "<group>"; };
 		25403D4C166A9A0800E13304 /* ZXCGImageLuminanceSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXCGImageLuminanceSource.m; sourceTree = "<group>"; };
 		25403D4D166A9A0800E13304 /* ZXImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXImage.h; sourceTree = "<group>"; };
@@ -3346,7 +3341,6 @@
 				25403D00166A9A0800E13304 /* result */,
 				25403D46166A9A0800E13304 /* ZXCapture.h */,
 				25403D47166A9A0800E13304 /* ZXCapture.m */,
-				25403D48166A9A0800E13304 /* ZXCaptureDelegate.h */,
 				25403D4B166A9A0800E13304 /* ZXCGImageLuminanceSource.h */,
 				25403D4C166A9A0800E13304 /* ZXCGImageLuminanceSource.m */,
 				7967E67C2163B98C00C28E42 /* ZXCGImageLuminanceSourceInfo.h */,
@@ -4522,7 +4516,6 @@
 				0210FB8418E0A5FE00B1F4CE /* ZXCapture.h in Headers */,
 				0294D0D7190ED8DA00BBACCB /* ZXMultiFormatWriter.h in Headers */,
 				0294D175190EE4AE00BBACCB /* ZXingObjCAztec.h in Headers */,
-				0210FB8518E0A5FE00B1F4CE /* ZXCaptureDelegate.h in Headers */,
 				0210FC2218E0AA6300B1F4CE /* ZXQRCodeMaskUtil.h in Headers */,
 				0210FBA418E0A7BE00B1F4CE /* ZXDataMatrixBase256Encoder.h in Headers */,
 				0210FBBB18E0A89000B1F4CE /* ZXGenericMultipleBarcodeReader.h in Headers */,
@@ -4679,7 +4672,6 @@
 				25404551166ABAF000E13304 /* ZXWifiResultParser.h in Headers */,
 				25404552166ABAF000E13304 /* ZXCapture.h in Headers */,
 				0294D0D2190ED8DA00BBACCB /* ZXMultiFormatReader.h in Headers */,
-				25404553166ABAF000E13304 /* ZXCaptureDelegate.h in Headers */,
 				25404555166ABAF000E13304 /* ZXCGImageLuminanceSource.h in Headers */,
 				25404556166ABAF000E13304 /* ZXImage.h in Headers */,
 				25404558166ABAF000E13304 /* ZXMathUtils.h in Headers */,
@@ -4929,7 +4921,6 @@
 				255E484918143A8800A03A28 /* ZXWifiParsedResult.h in Headers */,
 				255E484A18143A8800A03A28 /* ZXWifiResultParser.h in Headers */,
 				255E484B18143A8800A03A28 /* ZXCapture.h in Headers */,
-				255E484C18143A8800A03A28 /* ZXCaptureDelegate.h in Headers */,
 				255E484E18143A8800A03A28 /* ZXCGImageLuminanceSource.h in Headers */,
 				255E484F18143A8800A03A28 /* ZXImage.h in Headers */,
 				0294D164190EDAA300BBACCB /* ZXMultiDetector.h in Headers */,
@@ -5158,7 +5149,6 @@
 				DB7259E61A5246DD00EFF81B /* ZXPDF417BarcodeRow.h in Headers */,
 				DB7259421A52444500EFF81B /* ZXSMSMMSResultParser.h in Headers */,
 				DB7259611A5244E300EFF81B /* ZXByteArray.h in Headers */,
-				DB7259531A52449600EFF81B /* ZXCaptureDelegate.h in Headers */,
 				DB7259821A52451500EFF81B /* ZXDataMatrixDataBlock.h in Headers */,
 				DB7259621A5244E300EFF81B /* ZXCharacterSetECI.h in Headers */,
 				DB7259E31A5246D000EFF81B /* ZXPDF417DetectorResult.h in Headers */,
